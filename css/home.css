@@ -51,39 +51,14 @@ p {
 	padding: 25px;
 }
 
-/*.top {
-	background-color: red;
-	height: 560px;
-	width: 910px;
-	float: right;
-	border-radius: 5%;
-	background-image: url("fundo1.jpg");
-	background-size: 910px 860px;
-}*/
-
 
 .topo {
-	/*background-color: red;*/
 	height: 560px;
 	width: 910px;
 	float: right;
 	border-radius: 11%;
 	background-image: url("fundo1.jpg");
 	background-size: 910px 860px;
-}
-
-/*.conteudo {
-	height: 680px;
-	width: 910px;	
-	background-color: green;
-	float: left;
-	border-radius: 8%;*/
-}
-
-.redes_sociais {
-	background-color: #ccccff;
-	height: 70px;
-	width: 910px;
 }
 
 .logo {
@@ -100,8 +75,7 @@ p {
 	height: 300px;
 	width: 470px;
 	color: #000;
-	/*background-color: #faf0da;*/
-	margin-top: 100px;
+	margin-top: 85px;
 	float: right;
 	padding: 5px;
 	padding-right: 22px;
@@ -109,7 +83,6 @@ p {
 
 footer {
 	height: 30px;
-	/*background-color: #73264d;*/
 	padding-top: 10px;
 	text-align: center;
 	color: #73264d;
